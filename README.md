@@ -15,7 +15,7 @@ https://web-chat-task.netlify.app/
 
 ## Video Demo Link
 
-https://youtu.be/v02rNXcJzAg
+https://drive.google.com/file/d/1NzNR3Ic1-ZGxbJ25-bgWKMVrlV_eJQaH/view?usp=sharing
 ## Run Locally
 
 Clone the project
